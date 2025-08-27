@@ -1,0 +1,4 @@
+﻿Requests >= 2.8
+dbt-core==1.6.1
+dbt-duckdb ==1.6.0
+duckdb==0.9.0
